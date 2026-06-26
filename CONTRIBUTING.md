@@ -22,8 +22,9 @@ Open a [feature request](https://github.com/Gald3r-Labs/gald3r_agent/issues/new/
 
 ## Code Contributions
 
-gald3r is source-available under the **Fair Source License 1.1**, and is developed by a
-**solo developer**. **Direct code contributions (pull requests) are not accepted at this time.**
+Gald3r Agent is developed by a **solo developer** and distributed as **compiled binaries
+only — it is not open source** (the application source is private). **Direct code contributions
+(pull requests) are not accepted.**
 
 All bug reports and feature requests are reviewed and may be incorporated into gald3r's
 development. Adopted ideas are implemented by the maintainer and credited in the release notes.
