@@ -14,9 +14,9 @@ Get the latest binary from the [**Releases page**](https://github.com/Gald3r-Lab
 
 | OS | File | First-launch note |
 |----|------|-------------------|
-| Windows | `gald3r-windows-x86_64.exe` | SmartScreen may say "unknown publisher" → **More info → Run anyway** |
+| Windows | `gald3r-windows-x86_64.exe` (or `.msi`) | SmartScreen may say "unknown publisher" → **More info → Run anyway** |
 | Linux | `gald3r-linux-x86_64` | `chmod +x` then run |
-| macOS | _not yet published_ | macOS builds are deferred for now — coming in a later release |
+| macOS (Apple Silicon) | `gald3r-macos-arm64` | Gatekeeper says "unidentified developer" → **right-click → Open** (unsigned until Apple enrollment) |
 
 > Binaries are **unsigned**, so the OS warnings above are expected and safe to bypass.
 > Code-signing and notarization will remove them in a future release.
